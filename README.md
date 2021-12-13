@@ -20,4 +20,4 @@ adversaries to spy on the regular folk, creating an illusion of democracy.
 
 Check out my crude [website](https://foxcap.sk).
 
-*Hack the planet!* 
+*They are trashing our rights! They are trashing the flow of data! Hack the planet!* 
