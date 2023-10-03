@@ -9,7 +9,7 @@
 - random malware I deobfuscte
 - other random projects I might decide to publish
 
-My current job position is *cloud system engineer*. I spend most of my free
+My current job position is *SOC L1 Analyst*. I spend most of my free
 time surfing the many services of interwebs, (mainly ircs) learning about 
 security and privacy. I like to solve CTF challenges on TryHackMe or HackTheBox 
 (took a break recently cuz of new job). 
