@@ -18,6 +18,6 @@ I like to spread the word about privacy and security.
 I despise big corporations and social media for the data collection and enabling 
 adversaries to spy on the regular folk, creating an illusion of democracy.
 
-Check out my crude [website](https://foxcap.sk).
+Check out my crude [website](https://f0xcap.site).
 
 *They are trashing our rights! They are trashing the flow of data! Hack the planet!* 
